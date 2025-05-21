@@ -18,7 +18,7 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/ahmed-alashmony-90b133253/" target="_blank">Ahmed Alashmony</a>
+<a href="https://www.linkedin.com/in/ahmed-alashmony-90b133253/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Alashmony-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 
 
